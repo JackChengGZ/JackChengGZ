@@ -1,4 +1,4 @@
-### Hi 👋 我是公明
+## Hi! 👋 我是公明; I'm JackCheng
 <img src='https://visitor-badge.glitch.me/badge?page_id=JackChengGZ.JackChengGZ'/>
 
 ---
