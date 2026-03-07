@@ -1,5 +1,5 @@
 ## <p>Hi! 👋 我是公明; I'm JackCheng <img src='https://visitor-badge.glitch.me/badge?page_id=JackChengGZ.JackChengGZ'/> ![](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-gz120021-brightgreen)</p>
-* **简介：奋斗在一线的前端开发工程师**
+* **简介：奋斗在一线的AI开发工程师**
 * **地址：浙江 杭州**
 * **座右铭：没有永远的师者，只有永远谦卑的学生**
 
